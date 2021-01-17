@@ -12,6 +12,8 @@ permalink: community/courses.html
 
 ## Cours gratuits {#free-courses}
 
+- [Grafikart: Apprendre React](https://www.grafikart.fr/formations/react) - Cours détaillé sur les bases de React **(en français)**
+
 - [OpenClassrooms : réalisez une application web avec React](https://openclassrooms.com/fr/courses/4664381-realisez-une-application-web-avec-react-js) – Cours détaillé sur l'essentiel de React, y compris comment tester vos composants **(en français)**
 
 - [Glitch: React Starter Kit](https://glitch.com/glimmer/post/react-starter-kit) - Cours vidéo gratuit en 5 parties avec des exemples de code interactifs qui vous aideront à apprendre React.
